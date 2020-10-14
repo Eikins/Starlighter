@@ -62,15 +62,13 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/Eikins/NoEngine.svg?style=flat-square
-[contributors-url]: https://github.com/Eikins/NoEngine/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/Eikins/NoEngine.svg?style=flat-square
-[forks-url]: https://github.com/Eikins/NoEngine/network/members
-[stars-shield]: https://img.shields.io/github/stars/Eikins/NoEngine.svg?style=flat-square
-[stars-url]: https://github.com/Eikins/NoEngine/stargazers
-[issues-shield]: https://img.shields.io/github/issues/Eikins/NoEngine.svg?style=flat-square
-[issues-url]: https://github.com/Eikins/NoEngine/issues
-[license-shield]: https://img.shields.io/github/license/Eikins/NoEngine.svg?style=flat-square
-[license-url]: https://github.com/Eikins/NoEngine/blob/master/LICENSE.txt
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/https://www.linkedin.com/in/no%C3%A9-masse-722839151/
+[contributors-shield]: https://img.shields.io/github/contributors/Eikins/Starlighter.svg?style=flat-square
+[contributors-url]: https://github.com/Eikins/Starlighter/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/Eikins/Starlighter.svg?style=flat-square
+[forks-url]: https://github.com/Eikins/Starlighter/network/members
+[stars-shield]: https://img.shields.io/github/stars/Eikins/Starlighter.svg?style=flat-square
+[stars-url]: https://github.com/Eikins/Starlighter/stargazers
+[issues-shield]: https://img.shields.io/github/issues/Eikins/Starlighter.svg?style=flat-square
+[issues-url]: https://github.com/Eikins/Starlighter/issues
+[license-shield]: https://img.shields.io/github/license/Eikins/Starlighter.svg?style=flat-square
+[license-url]: https://github.com/Eikins/Starlighter/blob/master/LICENSE.txt
