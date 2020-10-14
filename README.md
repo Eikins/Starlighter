@@ -29,7 +29,7 @@
 
 
 <!-- ABOUT THE PROJECT -->
-## Overview
+## À Propos
 **Nom:** Star Lighter  
 **Plateforme(s):** PC Standalone  
 **Genre:** Rail Shooter, Shoot’em Up  
@@ -46,18 +46,12 @@ Star Lighter est un rail-shooter où le joueur contrôle un vaisseau spatial, et
 Distributed under the MIT License. See `LICENSE` for more information.
 
 <!-- CONTACT -->
-## Authors
+## Auteurs
 
 - Tao Laurent  
 - Tianning Ma
 - Noé Masse - [@LiPhoque](https://twitter.com/LiPhoque) - noe@masse.pro
 - Léo Tellez-Arenas
-
-
-
-<!-- ACKNOWLEDGEMENTS -->
-## Acknowledgements
-
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
