@@ -64,4 +64,4 @@ Distributed under the MIT License. See `LICENSE` for more information.
 [issues-shield]: https://img.shields.io/github/issues/Eikins/Starlighter.svg?style=flat-square
 [issues-url]: https://github.com/Eikins/Starlighter/issues
 [license-shield]: https://img.shields.io/github/license/Eikins/Starlighter.svg?style=flat-square
-[license-url]: https://github.com/Eikins/Starlighter/blob/master/LICENSE.txt
+[license-url]: https://github.com/Eikins/Starlighter/blob/master/LICENSE
