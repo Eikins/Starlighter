@@ -47,11 +47,12 @@ Star Lighter est un rail-shooter où le joueur contrôle un vaisseau spatial, et
 Distributed under the MIT License. See `LICENSE` for more information.
 
 <!-- CONTACT -->
-## Contact
+## Authors
 
-Noé Masse - [@LiPhoque](https://twitter.com/LiPhoque) - noe@masse.pro
-
-Project Link: [https://github.com/Eikins/NoEngine](https://github.com/Eikins/NoEngine)
+- Tao Laurent  
+- Tianning Ma
+- Noé Masse - [@LiPhoque](https://twitter.com/LiPhoque) - noe@masse.pro
+- Léo Tellez-Arenas
 
 
 
