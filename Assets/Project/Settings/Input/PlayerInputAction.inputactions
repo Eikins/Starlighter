@@ -1,5 +1,5 @@
 {
-    "name": "Starlighter",
+    "name": "PlayerInputAction",
     "maps": [
         {
             "name": "Player",
@@ -10,7 +10,7 @@
                     "type": "Value",
                     "id": "578c8715-a6e2-45f2-8dfc-4ba5d78971a4",
                     "expectedControlType": "Vector2",
-                    "processors": "",
+                    "processors": "NormalizeVector2",
                     "interactions": ""
                 },
                 {
