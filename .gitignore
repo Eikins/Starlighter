@@ -25,6 +25,10 @@
 /[Aa]ssets/_*
 /[Aa]ssets/_*.meta
 
+# Ignore Probuilder settings
+/ProjectSettings/Packages/com.unity.probuilder/Settings.json
+
+
 # Uncomment this line if you wish to ignore the asset store tools plugin
 # /[Aa]ssets/AssetStoreTools*
 

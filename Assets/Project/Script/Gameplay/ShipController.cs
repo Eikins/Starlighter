@@ -8,8 +8,8 @@ namespace Starlighter.Gameplay
 	{
 		#region Fields
 		[SerializeField] private float _speed = 1.0f;
-		public Vector2 _tilt = new Vector2(30.0f, 15.0f);
-		public float _tiltSpeed = 10.0f;
+		[SerializeField] private Vector2 _tilt = new Vector2(30.0f, 15.0f);
+		[SerializeField] private float _tiltSpeed = 10.0f;
 
 		private Vector2 _inputMovement = Vector2.zero;
 		#endregion
