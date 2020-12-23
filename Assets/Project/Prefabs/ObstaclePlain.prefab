@@ -11,9 +11,9 @@ GameObject:
   - component: {fileID: 244237614570490539}
   - component: {fileID: 244237614570490538}
   - component: {fileID: 244237614570490537}
-  - component: {fileID: 244237614570490536}
   - component: {fileID: 244237614570490543}
   - component: {fileID: 244237614570490542}
+  - component: {fileID: 4617309603300110586}
   m_Layer: 0
   m_Name: ObstaclePlain
   m_TagString: DamageOnTouch
@@ -82,19 +82,6 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
---- !u!65 &244237614570490536
-BoxCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 244237614570490541}
-  m_Material: {fileID: 0}
-  m_IsTrigger: 1
-  m_Enabled: 1
-  serializedVersion: 2
-  m_Size: {x: 1, y: 1, z: 1}
-  m_Center: {x: 0, y: 0, z: 0}
 --- !u!114 &244237614570490543
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -128,3 +115,17 @@ Rigidbody:
   m_Interpolate: 0
   m_Constraints: 0
   m_CollisionDetection: 0
+--- !u!64 &4617309603300110586
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 244237614570490541}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 1
+  m_CookingOptions: 30
+  m_Mesh: {fileID: 4300000, guid: a06b7d8123805974182a9aee714fe013, type: 3}

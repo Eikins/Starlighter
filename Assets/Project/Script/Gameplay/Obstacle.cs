@@ -48,6 +48,7 @@ public class Obstacle : MonoBehaviour
         if (other.tag == "Player")
         {
             //code for damaging player here
+            Debug.Log("ASTEROID HIT PLAYER");
         }
     }
 }
