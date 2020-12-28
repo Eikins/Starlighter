@@ -16277,6 +16277,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: StaticObstacleExample
       objectReference: {fileID: 0}
+    - target: {fileID: 4145829269050230601, guid: df8c97c09c3df8845b97bf654cdc1be9,
+        type: 3}
+      propertyPath: damage
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 4217661575458282692, guid: df8c97c09c3df8845b97bf654cdc1be9,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -16507,3 +16512,22 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: c4e694ed1200e974aa97caaa586d81ca, type: 3}
+--- !u!1 &7114523731230076850 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 7114523731883466629, guid: c4e694ed1200e974aa97caaa586d81ca,
+    type: 3}
+  m_PrefabInstance: {fileID: 7114523731230076849}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &7114523731230076851
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7114523731230076850}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fe93c0aeb77b066488280fec502b000c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  max_hp: 5
