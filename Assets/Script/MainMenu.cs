@@ -32,7 +32,7 @@ public class MainMenu : MonoBehaviour
     public void InfoMenu()
     {
         style.SetActive(true);
-        StartCoroutine(LoadMenu("InfoMenu"));
+        StartCoroutine(LoadMenu("HistoryMenu"));
     }
 
     IEnumerator LoadMenu(string menu)
