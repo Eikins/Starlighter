@@ -13,7 +13,7 @@ public class Obstacle : MonoBehaviour
     public Vector3 movementDirection = new Vector3(0.0f,0.0f,0.0f);
 
     [SerializeField]
-    public float speed;
+    public float speed=1;
 
     [SerializeField]
     public float lifeTimeAfterActivation=10.0f;
