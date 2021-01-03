@@ -17,6 +17,8 @@ public class ShipManager : MonoBehaviour
     public float missileStrength = 2000.0f;
     public float missileLifeTime = 1.0f;
 
+    public HUDcontroller HUD;
+
     #endregion
 
     // Start is called before the first frame update
@@ -50,7 +52,7 @@ public class ShipManager : MonoBehaviour
     private void InflictDamage(int damage)
     {
         current_hp -= damage;
-
+        HUD.inflictDamage(damage);
         if (current_hp <= 0)
         {
             Invoke("ReloadLevel", 0.6f);
