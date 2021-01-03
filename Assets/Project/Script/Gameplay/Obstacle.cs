@@ -21,14 +21,24 @@ public class Obstacle : MonoBehaviour
     [SerializeField]
     public int damage = 1;
 
+    [SerializeField]
+    public bool destructible = false;
+
+    [SerializeField]
+    public int missileDamage = 1;
+
+    [SerializeField]
+    public int Hp = 10;
+
     private Rigidbody rb;
+    private AudioSource missileAudio;
     #endregion
 
     // Start is called before the first frame update
     void Start()
     {
         rb = GetComponent<Rigidbody>();
-        
+        missileAudio = GetComponent<AudioSource>();
     }
 
     // Update is called once per frame
@@ -49,6 +59,19 @@ public class Obstacle : MonoBehaviour
         {
             //code for damaging player here
             
+        }
+        if (other.tag == "Missile")
+        {
+            //code for damaging the obstacle here
+            if (destructible)
+            {
+                Hp -= missileDamage;
+                missileAudio.Play();
+                if (Hp <= 0)
+                {
+                    Destroy(gameObject, 0.0f);
+                }
+            }
         }
     }
 }
